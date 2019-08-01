@@ -1,0 +1,8 @@
+Organism: mus_musculus
+SignalP cut-off: 0.8
+TargetP cut-off: 0.8
+PredGPI p-value cut-off: 0.05
+Maximum transmembrane domains: 1
+WoLF PSORT cut-off: 14
+SecretomeP cut-off: 0.9
+Proteins curated using Uniprot data

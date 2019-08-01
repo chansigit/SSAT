@@ -1,0 +1,1 @@
+data is obtained from http://bioinfo.life.hust.edu.cn/AnimalTFDB/#!/download
