@@ -25,4 +25,8 @@ annotate.genelist<- function(markers, tf, surface, secretory, ...){
     markers
 }
 
-annotate.genelist(seurat.deg.markers, tf=mm.tf, surface=mm.cellsurfacemarker, secretory=mm.secretory)
+# use this function manually
+## annotate.genelist(seurat.deg.markers, tf=mm.tf, surface=mm.cellsurfacemarker, secretory=mm.secretory)
+
+# load this function from github
+# source("https://raw.github.com/chansigit/SSAT/master/annotate.genelist.R")
