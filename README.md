@@ -25,6 +25,6 @@ annotated.seurat.deg.markers<- annotate.genelist(seurat.deg.markers, tf=mm.tf, s
 
 ## News
 
-2020-03-03: Surface Marker List updated, 3413 mouse genes, 2846 human genes
+2020-03-03: Surface Marker List updated (3413 mouse genes, 2846 human genes); Secreted protein gene updated (713 human genes, 918 mouse genes). 
 
 2019-08-01: Database established
