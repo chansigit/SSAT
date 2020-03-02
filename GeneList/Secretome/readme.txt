@@ -1,1 +1,0 @@
-obtained from http://genomics.cicbiogune.es/VerSeDa

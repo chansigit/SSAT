@@ -1,0 +1,1 @@
+obtained by database query from http://genomics.cicbiogune.es/VerSeDa
