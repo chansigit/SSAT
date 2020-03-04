@@ -1,6 +1,6 @@
-load(url("https://github.com/chansigit/SSAT/raw/master/mm.cellsurfacemarker.rda"))
-load(url("https://github.com/chansigit/SSAT/raw/master/mm.secretory.rda"))
-load(url("https://github.com/chansigit/SSAT/raw/master/mm.tf.rda"))
+#load(url("https://github.com/chansigit/SSAT/raw/master/mm.cellsurfacemarker.rda"))
+#load(url("https://github.com/chansigit/SSAT/raw/master/mm.secretory.rda"))
+#load(url("https://github.com/chansigit/SSAT/raw/master/mm.tf.rda"))
 
 annotate.genelist<- function(markers, tf, surface, secretory, ...){
     # annotate secretory protein
