@@ -20,6 +20,7 @@ load(url("https://github.com/chansigit/SSAT/raw/master/mm.tf.rda"))
 source("https://raw.github.com/chansigit/SSAT/master/annotate.genelist.R")
 
 # use this function manually
+seurat.deg.markers$gene  <-rownames(seurat.deg.markers) # if markers are generated with FindMarkers
 annotated.seurat.deg.markers<- annotate.genelist(seurat.deg.markers, tf=mm.tf, surface=mm.cellsurfacemarker, secretory=mm.secretory)
 ```
 
